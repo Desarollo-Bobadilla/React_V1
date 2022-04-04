@@ -1,0 +1,47 @@
+.GFG {
+  background-color: grey;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  padding-top: 7px;
+  padding-bottom: 8px;
+}
+
+.test {
+  padding-left: 250px;
+}
+
+.rel {
+  width: 178px;
+  height: 143px;
+  left: 204px;
+  top: 333px;
+  padding-left: 44px;
+  padding-top: 30px;
+  padding-right: 44px;
+}
+
+.name {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.city {
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.secret {
+  color: white;
+}
